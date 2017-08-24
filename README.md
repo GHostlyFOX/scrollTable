@@ -10,7 +10,7 @@
 
 Активируем его для блока который надо прокручивать:
 ```
-$('.dataTables_scrollBody').scrollTable();
+$('.table-responsive').scrollTable();
 ```
 
 Пример оформления таблицы:
